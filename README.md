@@ -18,6 +18,8 @@ $ cd {repo name}
 $ vi README.md
 ```
 
+Now, i an doing unstage practice.
+
 ## How to start
 
 ```python
